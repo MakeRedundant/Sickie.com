@@ -1,0 +1,98 @@
+{{!-- Patient profile  --}}
+{{!-- Render patient info, request med cert and display med certs  --}}
+
+<div class="row">
+  <div class="col-auto">
+    <h2>Welcome, <strong>{{name}}</strong>!</h2>
+  </div>
+</div>
+
+<div class="row mt-4">
+  <div class="col-md-6 med-cert">
+    <h3>Request a Medical Certificate:</h3>
+
+    <form class="form new-project-form">
+      <div class="form-group">
+        <label for="doctor-name">Prefered Doctor:</label>
+        <select class='form-input' id='doctor-name'>
+        <option value='1'>Dr. Dan Javascript</option>
+        <option value='2'>Dr. Error Prone</option>
+        <option value='3'>Dr. Merge Conflict</option>
+      </select>
+       
+      </div>
+      <div class="form-group">
+        <label for="project-desc">Description:</label>
+        <textarea class="form-input" id="medical-reason" name="med-cert"></textarea>
+      </div>
+      <div class="form-group">
+        <button type="submit" class="btn btn-primary">Request</button>
+      </div>
+    </form>
+  </div>
+
+<div class="col-md-6">
+  <div class="Patient-table-container">
+    <table class="patient-table">
+      <tr>
+        <th>Name</th>
+        <td>{{name}}</td>
+      </tr>
+      <tr>
+        <th>Diabetes</th>
+        <td>{{diabetes}}</td>
+      </tr>
+      <tr>
+        <th>Heart Disease</th>
+        <td>{{heart_disease}}</td>
+      </tr>
+      <tr>
+        <th>High Blood Pressure</th>
+        <td>{{high_blood_pressure}}</td>
+      </tr>
+      <tr>
+        <th>Kidney or Liver Disease</th>
+        <td>{{kidney_or_liver_disease}}</td>
+      </tr>
+      <tr>
+        <th>Medication List</th>
+        <td>{{medication_list}}</td>
+      </tr>
+      <tr>
+        <th>Allergies</th>
+        <td>{{allergies}}</td>
+      </tr>
+    </table>
+  </div>
+  <div class="update-button">
+    <button class="btn btn-primary" data-id="{{patient_id}}">Update profile</button>
+  </p>
+</div>
+<p>
+</div>
+</div>
+</div>
+
+{{#if medical_certificates.length}}
+<h2><strong>Certificates</strong></h2>
+    <div
+      class='med-cert-list grid grid-cols-1 md:grid-cols-2 gap-4 delete-now'
+    >
+      {{#each medical_certificates as |medCert|}}
+        <div class='bg-white rounded-lg p-4 shadow-md'>
+          <h4 class='text-xl font-semibold mb-2'>{{medCert.reason}}</h4>
+          <h4 class='text-xl font-semibold mb-2'><strong>Approved?</strong> {{medCert.approved}}</h4>
+          <div class='flex justify-end'>
+            <button
+              class='bg-red-500 hover:bg-red-600 text-white font-semibold py-2 px-4 rounded-full shadow-md transition-transform transform hover:scale-105 '
+              data-name='{{certificate_id}}'
+            >DELETE</button>
+          </div>
+        </div>
+      {{/each}}
+    </div>
+  {{else}}
+    <p class='text-lg'>No medical certificate requests found.</p>
+  {{/if}}
+
+<script src="./js/profile.js"></script>
