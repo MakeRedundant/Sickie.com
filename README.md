@@ -84,11 +84,10 @@ This project is licensed under MIT
   
 ## 🤝Contributing 
 
-Brian Trang,
-Jarrod Blanning,
-Thorsten Beowulf,
-Victor Chan,
-Hailin Ruan
+Brian Trang,  
+Jarrod Blanning,  
+Thorsten Beowulf,  
+Hailin Ruan    
 With thanks to USYD
   
 ## 🛠️Tests
@@ -102,5 +101,4 @@ Feel free to view more of our projects at
 https://github.com/MakeRedundant
 https://github.com/ThorstenBeowulf
 https://github.com/jarrodbb
-https://github.com/ETBJ
 https://github.com/Hailin-Ruan
