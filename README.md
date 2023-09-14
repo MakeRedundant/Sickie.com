@@ -98,7 +98,7 @@ N/A
 
 If you have any questions about this project, please contact me directly at Brian.trang9@gmail.com.  
 Feel free to view more of our projects at   
-https://github.com/MakeRedundant
-https://github.com/ThorstenBeowulf
-https://github.com/jarrodbb
-https://github.com/Hailin-Ruan
+https://github.com/MakeRedundant  
+https://github.com/ThorstenBeowulf  
+https://github.com/jarrodbb  
+https://github.com/Hailin-Ruan  
