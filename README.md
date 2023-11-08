@@ -5,21 +5,29 @@
 Latest video game release? Hungover from last night? Important work meeting with the boss? Say no more our doctors have a medical certificate for you.
 No questions asked. 
 
+![](https://forthebadge.com/images/badges/built-with-love.svg)
+![](https://forthebadge.com/images/badges/uses-html.svg)
+![](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
+![](https://forthebadge.com/images/badges/powered-by-electricity.svg)
+![](https://forthebadge.com/images/badges/makes-people-smile.svg) 
+
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 ![Inquirer Version](https://img.shields.io/badge/Inquirer-8.2.4-blue.svg)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-100%25-yellow.svg)
-![bcrypt](https://img.shields.io/badge/bcrypt-v5.0.0-blue)
-![dotenv](https://img.shields.io/badge/dotenv-v8.2.0-green)
-![express](https://img.shields.io/badge/express-v4.17.1-orange)
-![express-handlebars](https://img.shields.io/badge/express--handlebars-v5.2.0-red)
-![express-session](https://img.shields.io/badge/express--session-v1.17.1-yellow)
-![mysql2](https://img.shields.io/badge/mysql2-v2.2.5-blueviolet)
-![sequelize](https://img.shields.io/badge/sequelize-v6.3.5-important)
-![eslint](https://img.shields.io/badge/eslint-v7.12.1-lightgrey)
-![tailwindcss](https://img.shields.io/badge/Tailwind%20CSS-v2.2.16-red)
+![bcrypt](https://img.shields.io/badge/bcrypt-5.0.0-blue)
+![dotenv](https://img.shields.io/badge/dotenv-8.2.0-green)
+![express](https://img.shields.io/badge/express-4.17.1-orange)
+![express-handlebars](https://img.shields.io/badge/express--handlebars-5.2.0-red)
+![express-session](https://img.shields.io/badge/express--session-1.17.1-yellow)
+![mysql2](https://img.shields.io/badge/mysql2-2.2.5-blueviolet)
+![sequelize](https://img.shields.io/badge/sequelize-6.3.5-important)
+![eslint](https://img.shields.io/badge/eslint-7.12.1-lightgrey)
+![tailwindcss](https://img.shields.io/badge/Tailwind%20CSS-2.2.16-red)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-CSS%20Framework-blueviolet)
 ![nodemon](https://img.shields.io/badge/nodemon-3.0.1-black)
 ![Password-Generator](https://img.shields.io/badge/Password-Generator-green)
+
 
 ## 🪛 Technologies used 
 
@@ -41,21 +49,18 @@ No questions asked.
 
 ## 📓 Table of Contents
 
-- [Installation](#%EF%B8%8Finstallation)
-  
-- [Usage](#usage)
-  
-- [Screenshot](#%EF%B8%8Fscreenshot)
-  
-- [Video](#video)
-  
-- [License](#%EF%B8%8Flicense)
-  
-- [Contributing](#contributing)
-  
-- [Tests](#%EF%B8%8Ftests)
-  
-- [Questions](#questions)
+- [Take a Sickie](#take-a-sickie)
+  - [📄 Description](#-description)
+  - [🪛 Technologies used](#-technologies-used)
+  - [📓 Table of Contents](#-table-of-contents)
+  - [🖥️Installation](#️installation)
+  - [💬Usage](#usage)
+  - [🖼️Screenshot](#️screenshot)
+  - [📹Video](#video)
+  - [⚖️License](#️license)
+  - [🤝Contributing](#contributing)
+  - [🛠️Tests](#️tests)
+  - [❔Questions](#questions)
     
 ## 🖥️Installation 
 
