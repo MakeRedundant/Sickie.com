@@ -4,6 +4,8 @@
 
 Latest video game release? Hungover from last night? Important work meeting with the boss? Say no more our doctors have a medical certificate for you.
 No questions asked. 
+https://sickie-com-072b043c893e.herokuapp.com
+
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
@@ -79,7 +81,7 @@ Deployment: Hosted on Heroku, providing a reliable platform for the live applica
 ## 🖥️Installation 
 
 Deployed on Heroku at 
-https://takesickies-40fabe44386a.herokuapp.com/
+https://sickie-com-072b043c893e.herokuapp.com
   
 ## 💬Usage 
 
