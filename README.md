@@ -1,11 +1,8 @@
 # Take a Sickie
 
-## 📄 Description 
-
 Latest video game release? Hungover from last night? Important work meeting with the boss? Say no more our doctors have a medical certificate for you.
 No questions asked.   
-https://sickie-com-072b043c893e.herokuapp.com
-
+https://sickie-com-072b043c893e.herokuapp.com  
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
@@ -30,6 +27,7 @@ https://sickie-com-072b043c893e.herokuapp.com
 ![nodemon](https://img.shields.io/badge/nodemon-3.0.1-black)
 ![Password-Generator](https://img.shields.io/badge/Password-Generator-green)
 
+## 📄 Description 
 Sickie.com is a user-friendly mockup medical website, designed to simplify the process of requesting medical certificates. Users can seamlessly sign in or sign up to submit their requests, ensuring a hassle-free experience.
 
 Key Features:
@@ -58,7 +56,6 @@ Deployment: Hosted on Heroku, providing a reliable platform for the live applica
   - [🤝Contributing](#contributing)
   - [🛠️Tests](#️tests)
   - [❔Questions](#questions)
-
 
 ## 🪛 Technologies used
 
