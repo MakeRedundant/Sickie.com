@@ -32,14 +32,22 @@ Sickie.com is a user-friendly mockup medical website, designed to simplify the p
 
 Key Features:
 
-User Authentication: Implemented using Node.js, Express.js, and bcrypt for secure user sign in/sign up functionality.
-Data Management: Utilized MySQL database with Sequelize ORM for efficient data storage and retrieval.
-Dynamic Frontend: Created dynamic web pages with Express Handlebars, enhancing user interactivity.
-Session Management: Implemented express-session for maintaining user sessions and ensuring secure interactions.
-Responsive Design: Tailwind CSS and Bootstrap were employed for responsive and visually appealing UI/UX.
-Environment Management: Utilized dotenv for secure management of environment variables.
-Code Quality: Maintained code integrity and quality using ESLint for consistent coding standards.
-Automatic Restart: nodemon enabled automatic server restarts, ensuring seamless development and testing.
+User Authentication: Implemented using Node.js, Express.js, and bcrypt for secure user sign in/sign up functionality.  
+
+Data Management: Utilized MySQL database with Sequelize ORM for efficient data storage and retrieval.  
+
+Dynamic Frontend: Created dynamic web pages with Express Handlebars, enhancing user interactivity.  
+
+Session Management: Implemented express-session for maintaining user sessions and ensuring secure interactions.  
+
+Responsive Design: Tailwind CSS and Bootstrap were employed for responsive and visually appealing UI/UX.  
+
+Environment Management: Utilized dotenv for secure management of environment variables.  
+
+Code Quality: Maintained code integrity and quality using ESLint for consistent coding standards.  
+
+Automatic Restart: nodemon enabled automatic server restarts, ensuring seamless development and testing.  
+
 Deployment: Hosted on Heroku, providing a reliable platform for the live application.
 
 ## 📓 Table of Contents
