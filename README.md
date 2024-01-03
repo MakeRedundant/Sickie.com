@@ -44,31 +44,12 @@ Code Quality: Maintained code integrity and quality using ESLint for consistent 
 Automatic Restart: nodemon enabled automatic server restarts, ensuring seamless development and testing.
 Deployment: Hosted on Heroku, providing a reliable platform for the live application.
 
-
-## 🪛 Technologies used 
-
-<p><a href="https://nodejs.org/">Node.js</a></p>
-<p><a href="https://www.npmjs.com/">NPM</a></p>
-<p><a href="https://www.npmjs.com/package/express">Express.js</a></p>
-<p><a href="https://www.npmjs.com/package/express-handlebars">Express Handlebars</a></p>
-<p><a href="https://www.npmjs.com/package/express-session">express-session</a></p>
-<p><a href="https://www.npmjs.com/package/mysql2">mysql2</a></p>
-<p><a href="https://www.npmjs.com/package/sequelize">Sequelize</a></p>
-<p><a href="https://www.npmjs.com/package/dotenv">dotenv</a></p>
-<p><a href="https://www.npmjs.com/package/bcrypt">bcrypt</a></p>
-<p><a href="https://heroku.com/">Heroku</a></p>
-<p><a href="https://www.npmjs.com/package/eslint">ESLint</a></p>
-<p><a href="https://www.npmjs.com/package/tailwindcss">Tailwind CSS</a></p>
-<p><a href="https://www.npmjs.com/package/bootstrap">Bootstrap</a></p>
-<p><a href="https://nodemon.io/">nodemon</a></p>
-<p><a href="https://www.npmjs.com/package/generate-password">Password generator</a></p>
-
 ## 📓 Table of Contents
 
 - [Take a Sickie](#take-a-sickie)
   - [📄 Description](#-description)
-  - [🪛 Technologies used](#-technologies-used)
   - [📓 Table of Contents](#-table-of-contents)
+  - [🪛 Technologies used](#-technologies-used)
   - [🖥️Installation](#️installation)
   - [💬Usage](#usage)
   - [🖼️Screenshot](#️screenshot)
@@ -77,6 +58,28 @@ Deployment: Hosted on Heroku, providing a reliable platform for the live applica
   - [🤝Contributing](#contributing)
   - [🛠️Tests](#️tests)
   - [❔Questions](#questions)
+
+
+## 🪛 Technologies used
+
+| Technology           | Description                        | Link                                               |
+|----------------------|------------------------------------|----------------------------------------------------|
+| Node.js              | JavaScript runtime environment      | [Node.js](https://nodejs.org/)                     |
+| NPM                  | Node.js Package Manager            | [NPM](https://www.npmjs.com/)                     |
+| Express.js           | Web application framework for Node | [Express.js](https://www.npmjs.com/package/express) |
+| Express Handlebars   | Templating engine for Express       | [Express Handlebars](https://www.npmjs.com/package/express-handlebars) |
+| express-session      | Session middleware for Express      | [express-session](https://www.npmjs.com/package/express-session) |
+| mysql2               | MySQL client for Node.js            | [mysql2](https://www.npmjs.com/package/mysql2)     |
+| Sequelize            | Promise-based ORM for Node.js       | [Sequelize](https://www.npmjs.com/package/sequelize)|
+| dotenv               | Loads environment variables         | [dotenv](https://www.npmjs.com/package/dotenv)     |
+| bcrypt               | Password hashing function           | [bcrypt](https://www.npmjs.com/package/bcrypt)     |
+| Heroku               | Cloud platform for deployment      | [Heroku](https://heroku.com/)                      |
+| ESLint               | JavaScript linter                  | [ESLint](https://www.npmjs.com/package/eslint)     |
+| Tailwind CSS         | Utility-first CSS framework         | [Tailwind CSS](https://www.npmjs.com/package/tailwindcss) |
+| Bootstrap            | Front-end CSS framework             | [Bootstrap](https://www.npmjs.com/package/bootstrap)|
+| nodemon              | Monitor for changes in your code    | [nodemon](https://nodemon.io/)                    |
+| Password generator   | Utility to generate passwords       | [Password generator](https://www.npmjs.com/package/generate-password) |
+
     
 ## 🖥️Installation 
 
