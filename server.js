@@ -14,6 +14,10 @@ const PORT = process.env.PORT || 3001;
 
 const hbs = exphbs.create({ helpers });
 
+app.get('/robots.txt', function (req, res) {
+  res.sendFile(path.resolve('robots.txt'));
+});
+
 const sess = {
   secret: 'Super secret secret',
   cookie: {
