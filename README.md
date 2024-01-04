@@ -27,6 +27,21 @@ https://sickie-com-072b043c893e.herokuapp.com
 ![nodemon](https://img.shields.io/badge/nodemon-3.0.1-black)
 ![Password-Generator](https://img.shields.io/badge/Password-Generator-green)
 
+## 📓 Table of Contents
+- [Take a Sickie](#take-a-sickie)
+  - [📓 Table of Contents](#-table-of-contents)
+  - [📄 Description](#-description)
+  - [💡🏡 Lighthouse](#-lighthouse)
+  - [🪛 Technologies used](#-technologies-used)
+  - [🖥️Installation](#️installation)
+  - [💬Usage](#usage)
+  - [🖼️Screenshot](#️screenshot)
+  - [📹Video](#video)
+  - [⚖️License](#️license)
+  - [🤝Contributing](#contributing)
+  - [🛠️Tests](#️tests)
+  - [❔Questions](#questions)
+
 ## 📄 Description 
 Sickie.com is a user-friendly mockup medical website, designed to simplify the process of requesting medical certificates. Users can seamlessly sign in or sign up to submit their requests, ensuring a hassle-free experience.
 
@@ -50,20 +65,9 @@ Automatic Restart: nodemon enabled automatic server restarts, ensuring seamless 
 
 Deployment: Hosted on Heroku, providing a reliable platform for the live application.
 
-## 📓 Table of Contents
-
-- [Take a Sickie](#take-a-sickie)
-  - [📄 Description](#-description)
-  - [📓 Table of Contents](#-table-of-contents)
-  - [🪛 Technologies used](#-technologies-used)
-  - [🖥️Installation](#️installation)
-  - [💬Usage](#usage)
-  - [🖼️Screenshot](#️screenshot)
-  - [📹Video](#video)
-  - [⚖️License](#️license)
-  - [🤝Contributing](#contributing)
-  - [🛠️Tests](#️tests)
-  - [❔Questions](#questions)
+## 💡🏡 Lighthouse
+This is the Lighthouse Google report showcasing Performance 🚀, Accessibility ♿️, Best practices ✅, and SEO 🔍.  
+![Lighthouse](./assets/Lighthouse.png)
 
 ## 🪛 Technologies used
 
